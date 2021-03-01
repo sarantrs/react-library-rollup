@@ -1,6 +1,6 @@
 {
   "name": "react-library-rollup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple library which will provide components",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
