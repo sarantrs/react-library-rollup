@@ -1,5 +1,5 @@
 {
-  "name": "sarantrs-react-library",
+  "name": "react-library-rollup",
   "version": "1.0.0",
   "description": "a simple library which will provide components",
   "main": "dist/index.js",
